@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react-stopwatch/static/css/main.58b68806.chunk.css",
-    "main.js": "/react-stopwatch/static/js/main.89272fb9.chunk.js",
-    "main.js.map": "/react-stopwatch/static/js/main.89272fb9.chunk.js.map",
+    "main.js": "/react-stopwatch/static/js/main.23cb81d7.chunk.js",
+    "main.js.map": "/react-stopwatch/static/js/main.23cb81d7.chunk.js.map",
     "runtime-main.js": "/react-stopwatch/static/js/runtime-main.821ccdb1.js",
     "runtime-main.js.map": "/react-stopwatch/static/js/runtime-main.821ccdb1.js.map",
-    "static/js/2.7f7b7fc3.chunk.js": "/react-stopwatch/static/js/2.7f7b7fc3.chunk.js",
-    "static/js/2.7f7b7fc3.chunk.js.map": "/react-stopwatch/static/js/2.7f7b7fc3.chunk.js.map",
+    "static/js/2.ca15d20c.chunk.js": "/react-stopwatch/static/js/2.ca15d20c.chunk.js",
+    "static/js/2.ca15d20c.chunk.js.map": "/react-stopwatch/static/js/2.ca15d20c.chunk.js.map",
     "index.html": "/react-stopwatch/index.html",
-    "precache-manifest.a2ff3bc4147e274bc8e2cdb688a675e1.js": "/react-stopwatch/precache-manifest.a2ff3bc4147e274bc8e2cdb688a675e1.js",
+    "precache-manifest.1f68aed608a528ee2814266e63ee733a.js": "/react-stopwatch/precache-manifest.1f68aed608a528ee2814266e63ee733a.js",
     "service-worker.js": "/react-stopwatch/service-worker.js",
     "static/css/main.58b68806.chunk.css.map": "/react-stopwatch/static/css/main.58b68806.chunk.css.map",
-    "static/js/2.7f7b7fc3.chunk.js.LICENSE.txt": "/react-stopwatch/static/js/2.7f7b7fc3.chunk.js.LICENSE.txt",
+    "static/js/2.ca15d20c.chunk.js.LICENSE.txt": "/react-stopwatch/static/js/2.ca15d20c.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/react-stopwatch/static/media/hand_red.e6336a03.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.821ccdb1.js",
-    "static/js/2.7f7b7fc3.chunk.js",
+    "static/js/2.ca15d20c.chunk.js",
     "static/css/main.58b68806.chunk.css",
-    "static/js/main.89272fb9.chunk.js"
+    "static/js/main.23cb81d7.chunk.js"
   ]
 }
