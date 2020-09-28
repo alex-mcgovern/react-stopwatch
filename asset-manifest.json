@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-stopwatch/static/css/main.58b68806.chunk.css",
+    "main.js": "/react-stopwatch/static/js/main.1fc39810.chunk.js",
+    "main.js.map": "/react-stopwatch/static/js/main.1fc39810.chunk.js.map",
+    "runtime-main.js": "/react-stopwatch/static/js/runtime-main.821ccdb1.js",
+    "runtime-main.js.map": "/react-stopwatch/static/js/runtime-main.821ccdb1.js.map",
+    "static/js/2.7f7b7fc3.chunk.js": "/react-stopwatch/static/js/2.7f7b7fc3.chunk.js",
+    "static/js/2.7f7b7fc3.chunk.js.map": "/react-stopwatch/static/js/2.7f7b7fc3.chunk.js.map",
+    "index.html": "/react-stopwatch/index.html",
+    "precache-manifest.7ce37fe702a8bf2517ed10a986d64325.js": "/react-stopwatch/precache-manifest.7ce37fe702a8bf2517ed10a986d64325.js",
+    "service-worker.js": "/react-stopwatch/service-worker.js",
+    "static/css/main.58b68806.chunk.css.map": "/react-stopwatch/static/css/main.58b68806.chunk.css.map",
+    "static/js/2.7f7b7fc3.chunk.js.LICENSE.txt": "/react-stopwatch/static/js/2.7f7b7fc3.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/react-stopwatch/static/media/hand_red.e6336a03.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.821ccdb1.js",
+    "static/js/2.7f7b7fc3.chunk.js",
+    "static/css/main.58b68806.chunk.css",
+    "static/js/main.1fc39810.chunk.js"
+  ]
+}
