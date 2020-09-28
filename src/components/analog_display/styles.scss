@@ -1,0 +1,55 @@
+//this was put together quickly using techniques from 2 different examples found online and some custom assets
+//I may revisit this in future and build a better version that doesn't rely on css classes
+
+.clock {
+  position: relative;
+  width: 50%;
+  overflow: hidden;
+  background: #fff;
+  margin: 30px auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  &:before {
+    content: '';
+    display: block;
+    padding-top: 100%;
+  }
+  .analog-clock {
+    background-image: url(../../assets/face.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .dial {
+      position: absolute;
+      left: calc(50%-2px); //offset for width of hands /2
+      bottom: 50%;
+
+      transform-origin: bottom center;
+      transform: translate-x(-50%);
+      &.seconds {
+        width: 4px;
+        height: 40%;
+
+        background-image: url(../../assets/hand_red.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      &.minutes {
+        width: 4px;
+        height: 30%;
+
+        background-image: url(../../assets/hand.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+    }
+  }
+}
