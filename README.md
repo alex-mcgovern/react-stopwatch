@@ -7,7 +7,8 @@ A simple stopwatch built with React & Material UI.
 ### How to run
 
 From project root:
-`yarn install`
+`yarn`
+
 `yarn run start`
 
 ### Build process
